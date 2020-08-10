@@ -6,7 +6,6 @@ My name is Constantine Grigel, I am an [Engineer](https://www.linkedin.com/in/cg
 Currently, I am focused on the implementation of the solutions for distributed systems and cloud-native services, and passionate wit Reliability things, Golang, and Kubernetes.
 
 
----
 You can contact me via:
 
 * [Telegram](https://t.me/cgrigel)
