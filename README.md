@@ -9,4 +9,4 @@ Currently, I am focused on the implementation of the solutions for distributed s
 You can contact me via:
 
 * [Telegram](https://t.me/cgrigel)
-* [E-mail](rootoptical@gmail.com)
+* [E-mail](mailto:rootoptical@gmail.com)
