@@ -3,7 +3,7 @@ Successful experience in managing large, distributed engineering teams and deliv
 Contributor, speaker of [community events, and meetup host](https://www.meetup.com/members/186128767/). 
 
 >Currently, I am focused on the implementation of solutions for distributed systems and cloud-native services.                                                       
->Also, passionate about: Art of management, Team topologies, Value Streams, DevOps, Platform Engineerning, Reliability things.
+>Also, passionate about Art of management, Team topologies, Value Streams, DevOps, Platform Engineering, and Reliability things.
 
 You can reach me via:
 
